@@ -1,70 +1,142 @@
-# Getting Started with Create React App
+ <!-- Ctrl + Shift + P + markdown -->
+ <h1>MERN-STACK JOB-SEARCH-APP</h1>
+<h4>
+This is MERN stack job search website is a complete solution for job seekers and employers. With a user-friendly front-end design, made with React-Chakra UI and state is efficiently managed through Redux store. And Backend is features advanced backend technology with MongoDB, Node.js, Express, and Mongoose, ensuring seamless data storage and API operations and with this advanced security measures implemented in the backend. Using JWT and password hashing with Node.js and Express.js, sensitive user data is protected
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Job seekers can easily search and filter job listings based on role and city on the user job search page. Employers have the ability to post, edit, and delete job listings through the exclusive admin dashboard.
 
-## Available Scripts
+Job seekers can view, apply, edit, and delete their job applications on the "Applied Jobs" page. With the added ability to search and filter job listings, our website offers a convenient and efficient solution for all your job search needs.
 
-In the project directory, you can run:
+</h4>
+<br/>
 
-### `npm start`
+<h2><i>🎯 Using Languages & Tools 🧰</i></h2>
+<br/>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<div align="center" >
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+   
+   <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
+   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" /> 
+    
+ <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="jwt" />
+ 
+ </div>
+<br>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🎯## Project is live at 🔗
+**[Job-Search-App](https://filpkart-clone-clientgc.onrender.com/)**
+<br>
 
-### `npm test`
+🎯 Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Responsive Laniding Page.
+- Login/Signup page.
+- JobSearch page which displays all the job posted by admin.
+- User can apply job and it will add to apllied job page.
+- User can able to edit, delete the job which are applied
+- Admin dashboard used to post the new job
+- Job Search Functionlity
+- Created the Api for jobPosting,Jobgeting
+- Implemented JWT for authentication and authorization.
+- ## Dependencies:
 
-### `npm run build`
+### Front-end
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    1) react
+    2) react-dom
+    3) react-scripts
+    4) styled-components
+    5) react-router-dom
+    6) react-icons
+    7) Chakra-UI
+    8) react-multi-carousel
+    9) react-countdown
+    10) axios
+    11) redux, redux thunk, react-redux
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Backend
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    1) express
+    2) cors
+    3) dotenv
+    4) mongoose
+    5) nodemon
 
-### `npm run eject`
+## Landing Page
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+ <img src="./Frontend-Job-Search/src/Assets/JobSearchHome.png" alt="Landing Page" />
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Job Search Page
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+ <img src="./Frontend-Job-Search/src/Assets/JobSearchUserJbSearchpage.png" alt="product Page" /> 
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Job Applied Page
 
-## Learn More
+ <img src="./Frontend-Job-Search/src/Assets/JobSearchJobAppliedPage.png" alt="product Page" />
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+##  Admin DashBoard Page
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+ <img src="./Frontend-Job-Search/src/Assets/JobSearchAdminDashboard.png" alt="product Page" /> 
 
-### Code Splitting
+## Admin Joblisting Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+ <img src="./Frontend-Job-Search/src/Assets/JobSearchAdminJobPosted.png" alt="product Page" />
 
-### Analyzing the Bundle Size
+## login Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+ <img src="./Frontend-Job-Search/src/Assets/JobSearchLogin.png" alt="login Page" />
 
-### Making a Progressive Web App
+## Setting Up Project in local
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Frontend
 
-### Advanced Configuration
+#### 1) Setting up node environment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+    1) navigate to Frontend directory
+    2) use node version 16 or 18.12.1 is recommended
+    3) run command npm install or npm i --legacy-peer-deps it will install all the required Dependencies with no errors.
 
-### Deployment
+#### 2) Starting frontend on localhost
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+(make sure you are confirming url of server)
 
-### `npm run build` fails to minify
+    npm start /*or*/ npm run start
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### 3) Making Production ready folder
+
+    npm run build
+
+### Server
+
+#### 1) Setting up node environment
+
+    1) navigate to Backend directory
+    2) use node version 16 or 18.12.1 is recommended
+    3) run command npm install or npm i --legacy-peer-deps
+
+#### 1) Starting Server in deployment
+
+    npm start
+
+#### 1) Starting Server with nodemon on locahost
+
+    npm run dev
+
+### Database: MongoDB
+
+#### 1) Atlas
+
+    in .env file provide MONGODB_URL with proper credentials
+
+#### 2) Local database
+
+    if MONGODB_URL not declared in .env, by default it will connect to local data base
+
+    in case not working try changing MONGODB_URL by creating your own in MongoDB Atlas server
