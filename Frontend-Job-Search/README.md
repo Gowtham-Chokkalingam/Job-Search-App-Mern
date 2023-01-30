@@ -1,7 +1,8 @@
  <!-- Ctrl + Shift + P + markdown -->
  <h1>MERN-STACK JOB-SEARCH-APP</h1>
 <h4>
-This is MERN stack job search website is a complete solution for job seekers and employers. With a user-friendly front-end design, made with React-Chakra UI and state is efficiently managed through Redux store. And Backend is features advanced backend technology with MongoDB, Node.js, Express, and Mongoose, ensuring seamless data storage and API operations and with this advanced security measures implemented in the backend. Using JWT and password hashing with Node.js and Express.js, sensitive user data is protected
+This is MERN stack job search website is a complete solution for job seekers and employers. With a user-friendly front-end design, made with React-Chakra UI and state is efficiently managed through Redux store. And Backend is features advanced backend technology with MongoDB, Node.js, Express, and Mongoose, ensuring seamless data storage and API operations and with this advanced security measures implemented in the backend. Using JWT and password hashing with Node.js and Express.js, sensitive user data is protected.
+
 
 Job seekers can easily search and filter job listings based on role and city on the user job search page. Employers have the ability to post, edit, and delete job listings through the exclusive admin dashboard.
 
@@ -31,7 +32,7 @@ Job seekers can view, apply, edit, and delete their job applications on the "App
 <br>
 
 🎯## Project is live at 🔗
-**[Job-Search-App](https://filpkart-clone-clientgc.onrender.com/)**
+**[Job-Search-App](https://mern-job-search-app.netlify.app)**
 <br>
 
 🎯 Features
