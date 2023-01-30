@@ -73,27 +73,27 @@ Job seekers can view, apply, edit, and delete their job applications on the "App
 
 ## Landing Page
 
- <img width="400px" src="./Frontend-Job-Search/src/Assets/JobSearchHome.png" alt="Landing Page" />
+ <img width="480px" src="./Frontend-Job-Search/src/Assets/JobSearchHome.png" alt="Landing Page" />
 
 ## Job Search Page
 
- <img width="400px" src="./Frontend-Job-Search/src/Assets/JobSearchUserJbSearchpage.png" alt="product Page" /> 
+ <img width="480px" src="./Frontend-Job-Search/src/Assets/JobSearchUserJbSearchpage.png" alt="product Page" /> 
 
 ## Job Applied Page
 
- <img width="400px" src="./Frontend-Job-Search/src/Assets/JobSearchJobAppliedPage.png" alt="product Page" />
+ <img width="480px" src="./Frontend-Job-Search/src/Assets/JobSearchJobAppliedPage.png" alt="product Page" />
 
 ##  Admin DashBoard Page
 
- <img width="400px" src="./Frontend-Job-Search/src/Assets/JobSearchAdminDashboard.png" alt="product Page" /> 
+ <img width="480px" src="./Frontend-Job-Search/src/Assets/JobSearchAdminDashboard.png" alt="product Page" /> 
 
 ## Admin Joblisting Page
 
- <img width="400px" src="./Frontend-Job-Search/src/Assets/JobSearchAdminJobPosted.png" alt="product Page" />
+ <img width="480px" src="./Frontend-Job-Search/src/Assets/JobSearchAdminJobPosted.png" alt="product Page" />
 
 ## login Page
 
- <img width="400px"  src="./Frontend-Job-Search/src/Assets/JobSearchLogin.png" alt="login Page" />
+ <img width="480px"  src="./Frontend-Job-Search/src/Assets/JobSearchLogin.png" alt="login Page" />
 
 ## Setting Up Project in local
 
