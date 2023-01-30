@@ -71,27 +71,27 @@ Job seekers can view, apply, edit, and delete their job applications on the "App
 
 ## Landing Page
 
- <img src="./Frontend-Job-Search/src/Assets/JobSearchHome.png" alt="Landing Page" />
+ <img src="../Frontend-Job-Search/src/Assets/JobSearchHome.png" alt="Landing Page" />
 
 ## Job Search Page
 
- <img src="./Frontend-Job-Search/src/Assets/JobSearchUserJbSearchpage.png" alt="product Page" /> 
+ <img src="../Frontend-Job-Search/src/Assets/JobSearchUserJbSearchpage.png" alt="product Page" /> 
 
 ## Job Applied Page
 
- <img src="./Frontend-Job-Search/src/Assets/JobSearchJobAppliedPage.png" alt="product Page" />
+ <img src="../Frontend-Job-Search/src/Assets/JobSearchJobAppliedPage.png" alt="product Page" />
 
 ##  Admin DashBoard Page
 
- <img src="./Frontend-Job-Search/src/Assets/JobSearchAdminDashboard.png" alt="product Page" /> 
+ <img src="../Frontend-Job-Search/src/Assets/JobSearchAdminDashboard.png" alt="product Page" /> 
 
 ## Admin Joblisting Page
 
- <img src="./Frontend-Job-Search/src/Assets/JobSearchAdminJobPosted.png" alt="product Page" />
+ <img src="../Frontend-Job-Search/src/Assets/JobSearchAdminJobPosted.png" alt="product Page" />
 
 ## login Page
 
- <img src="./Frontend-Job-Search/src/Assets/JobSearchLogin.png" alt="login Page" />
+ <img src="../Frontend-Job-Search/src/Assets/JobSearchLogin.png" alt="login Page" />
 
 ## Setting Up Project in local
 
